@@ -1,2 +1,2 @@
-# V1.0-Controle-de-gastos
-versão 1.0 do controle de gastos com python basico
+Controle-de-gastos
+Programa de controle de gastos simples feito com python
