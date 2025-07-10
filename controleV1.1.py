@@ -61,7 +61,7 @@ def remover_gasto():
         salvar_gastos()
         atualizar_lista()
 
-# ==== Interface Gráfica ====
+
 root = tk.Tk()
 root.title("Controle de Gastos")
 root.geometry("400x500")
@@ -90,7 +90,7 @@ lista_gastos.pack(pady=10)
 label_total = tk.Label(root, text="Total: R$0.00", font=("Arial", 12, "bold"))
 label_total.pack()
 
-#Carrega os dados e atualiza a tela
+
 carregar_gastos()
 atualizar_lista()
 
