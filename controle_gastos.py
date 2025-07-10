@@ -45,7 +45,6 @@ def remover_gasto():
             print("Descrição não encontrada.")
 
 
-# loop principal com while True e input
 while True:
     menu()
     opcao = input("Selecione uma opção: ")
